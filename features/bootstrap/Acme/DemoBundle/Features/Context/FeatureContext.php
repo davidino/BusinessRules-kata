@@ -14,7 +14,7 @@ use Behat\Symfony2Extension\Context\KernelDictionary;
 class FeatureContext implements Context, SnippetAcceptingContext
 {
     use KernelDictionary;
-    
+
     /**
      * Initializes context.
      *
