@@ -1,0 +1,12 @@
+/app/config/parameters.yml
+/web
+/web/bundles/
+/app/bootstrap*
+/app/cache/*
+/app/logs/*
+/vendor/
+/app/config/parameters.ini
+/composer.phar
+/bin
+/app/build
+/.vagrant
