@@ -9,6 +9,7 @@
             <argument>"plain_value"</argument>
             <argument>%parameter%</argument>
         </service>
+        <service id="newsletter_factory" class="%bella.pe.te%" factory-method="get" factory-service="" lazy="true"/>
     </services>
     -->
 </container>
